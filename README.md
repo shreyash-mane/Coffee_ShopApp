@@ -1,18 +1,3 @@
-HERIOT WATT UNIVERSITY – **GROUP COURSEWORK**
-
-Course Name: **F21AS - Advanced Software Engineering**
-
-Group Name: **F21AS [Edinburgh] Group 20**
-
-Group Code: **f21as-group-20**
-
-**Group Members:**
-1. Mahenge, Ima – Group Leader <iem4000@hw.ac.uk>
-2. Ishfaq, Junaid – <ji4001@hw.ac.uk>
-3. Kazi, adil – <mk4029@hw.ac.uk>
-4. Alshehri, Aedh – <aa4105@hw.ac.uk>
-5. Mane, Shreyash - <sm4044@hw.ac.uk>
-
 **Project Tools**
 
 Project Tools used for the development. To work with the project, ensure you have  
@@ -84,11 +69,6 @@ Step 5: Follow the on screen menus to perform the following:-
 	-*Username*: admin,  
 	-*Password*: password
 	
-**Version Control and Collaboration**  
-We have used the university Gitlab to maintain the versions of the project and collaboration including peer review of source code.  
-GitLab Repository URL: https://gitlab-student.macs.hw.ac.uk/f21as-group-20/coffee-shop-group-20  
-Project Clone URL: git@gitlab-student.macs.hw.ac.uk:f21as-group-20/coffee-shop-group-20.git   
-Main Branch: master  
-Other Branches: ima, junaid, adil, shreyash, aedh
+
  
 	
