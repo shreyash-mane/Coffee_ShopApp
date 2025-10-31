@@ -69,11 +69,6 @@ Step 5: Follow the on screen menus to perform the following:-
 	-*Username*: admin,  
 	-*Password*: password
 	
-**Version Control and Collaboration**  
-We have used the university Gitlab to maintain the versions of the project and collaboration including peer review of source code.  
-GitLab Repository URL: https://gitlab-student.macs.hw.ac.uk/f21as-group-20/coffee-shop-group-20  
-Project Clone URL: git@gitlab-student.macs.hw.ac.uk:f21as-group-20/coffee-shop-group-20.git   
-Main Branch: master  
-Other Branches: ima, junaid, adil, shreyash, aedh
+
  
 	
