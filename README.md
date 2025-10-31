@@ -1,18 +1,3 @@
-HERIOT WATT UNIVERSITY – **GROUP COURSEWORK**
-
-Course Name: **F21AS - Advanced Software Engineering**
-
-Group Name: **F21AS [Edinburgh] Group 20**
-
-Group Code: **f21as-group-20**
-
-**Group Members:**
-1. Mahenge, Ima – Group Leader <iem4000@hw.ac.uk>
-2. Ishfaq, Junaid – <ji4001@hw.ac.uk>
-3. Kazi, adil – <mk4029@hw.ac.uk>
-4. Alshehri, Aedh – <aa4105@hw.ac.uk>
-5. Mane, Shreyash - <sm4044@hw.ac.uk>
-
 **Project Tools**
 
 Project Tools used for the development. To work with the project, ensure you have  
