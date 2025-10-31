@@ -6,7 +6,6 @@ Project Tools used for the development. To work with the project, ensure you hav
 To Import a Project in Eclipse:
 1. Download the Project files  
 	1.1. Stage 1 ->[CoffeeShopGroup20Codes.zip](https://gitlab-student.macs.hw.ac.uk/f21as-group-20/coffee-shop-group-20/-/raw/master/CoffeeShopGroup20Codes.zip).  
-	1.2. Stage 2 ->[]    
 2. **Click Import -> General ->Existing Project into Workspace -> Select archive file ->Finish**  
 
 **Project Structure**  
