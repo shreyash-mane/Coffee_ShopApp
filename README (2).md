@@ -14,9 +14,8 @@ To run and work with this project, ensure the following is installed:
 To import the project into Eclipse:
 
 1. Download the project files:
-   - **Stage 1** – [CoffeeShopGroup20Codes.zip](https://gitlab-student.macs.hw.ac.uk/f21as-group-20/coffee-shop-group-20/-/raw/master/CoffeeShopGroup20Codes.zip)  
-   - **Stage 2** – [Link Missing]
-
+   - **Stage 1** – [CoffeeShopGroup20Codes.zip](https://gitlab-student.macs.hw.ac.uk/f21as-group-20/coffee-shop-group-20/-/raw/master/CoffeeShopGroup20Codes.zip)
+     
 2. In Eclipse:
    - Go to **File > Import > General > Existing Projects into Workspace**
    - Choose **Select archive file**
