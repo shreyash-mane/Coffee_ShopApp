@@ -1,0 +1,29 @@
+MenuItemID,Name,CategoryID,Description,Quantity,CurrentPrice
+BEV101,Latte,BEVERAGE,Espresso with steamed milk,50,3.50
+BEV102,Americano,BEVERAGE,Espresso with hot water,40,2.50
+BEV103,Cappuccino,BEVERAGE,Espresso with frothed milk,30,3.00
+BEV104,Mocha,BEVERAGE,Espresso with chocolate and steamed milk,35,4.00
+BEV105,Flat White,BEVERAGE,Espresso with velvety milk,25,3.75
+BEV106,Chai Latte,BEVERAGE,Spiced tea with steamed milk,30,3.50
+BEV107,Hot Chocolate,BEVERAGE,Rich chocolate drink,20,3.25
+BEV108,Cold Brew,BEVERAGE,Smooth cold-steeped coffee,30,4.25
+BEV109,Matcha Latte,BEVERAGE,Green tea with steamed milk,25,4.50
+
+FOD201,Cheese Sandwich,FOOD,Grilled cheese sandwich,25,4.50
+FOD202,Chicken Wrap,FOOD,Tortilla wrap with chicken,20,5.50
+FOD203,Muffin,FOOD,Blueberry muffin,35,2.00
+FOD204,Bagel,FOOD,Toasted bagel with cream cheese,30,3.50
+FOD205,Croissant,FOOD,Flaky butter pastry,25,3.75
+FOD206,Avocado Toast,FOOD,Sourdough toast with avocado,20,5.00
+FOD207,Granola Parfait,FOOD,Yogurt with granola and fruit,20,4.75
+FOD208,Chocolate Chip Cookie,FOOD,Freshly baked cookie,40,2.25
+FOD209,Vegan Brownie,FOOD,Dairy-free chocolate brownie,15,3.00
+
+OTH301,Reusable Cup,OTHERS,Environment-friendly cup,100,10.00
+OTH302,Tote Bag,OTHERS,Branded coffee shop bag,50,8.00
+OTH303,Gift Card,OTHERS,Coffee shop gift card,200,20.00
+OTH304,Stainless Steel Straw,OTHERS,Reusable metal straw set,80,5.00
+OTH305,Coffee Beans,OTHERS,House blend coffee beans (250g),40,12.00
+OTH306,Tea Sampler,OTHERS,Variety of loose-leaf teas,30,10.50
+OTH307,Thermal Flask,OTHERS,Insulated coffee flask,20,15.00
+OTH308,Scented Candle,OTHERS,Coffee-scented candle,25,9.50

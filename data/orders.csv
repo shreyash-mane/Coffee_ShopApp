@@ -1,0 +1,15 @@
+OrderID,DateCreated,CustomerID,MenuItems,SubTotal,Discount,Status,OrderType
+ORDER111,2025-03-10 00:59:10,CS01,BEV103:Cappuccino:Beverage:Description:3:3.00;FOD202:Chicken Wrap:Food:Description:1:5.50;FOD203:Muffin:Food:Description:2:2.00;OTH305:Coffee Beans:Others:Description:1:12.00;OTH306:Tea Sampler:Others:Description:1:10.50;BEV104:Mocha:Beverage:Description:1:4.00,33.75,2.00,PENDING,OFFLINE
+ORDER112,2025-03-12 22:04:44,CS02,BEV101:Latte:Beverage:Description:1:3.50,2.80,0.00,PENDING,OFFLINE
+ORDER113,2025-03-12 22:22:52,CS03,BEV103:Cappuccino:Beverage:Description:12:3.00,28.80,0.00,PENDING,OFFLINE
+ORDER114,2025-03-12 22:33:08,CS04,BEV102:Americano:Beverage:Description:1:2.50,2.00,0.00,PENDING,ONLINE
+ORDER115,2025-03-12 22:45:42,CS05,BEV105:Flat White:Beverage:Description:1:3.75;BEV104:Mocha:Beverage:Description:1:4.00,6.20,0.00,PENDING,OFFLINE
+ORDER116,2025-03-12 22:46:21,CS06,BEV105:Flat White:Beverage:Description:1:3.75;BEV106:Chai Latte:Beverage:Description:1:3.50,5.80,0.00,PENDING,OFFLINE
+ORDER117,2025-03-28 16:56:45,CS07,BEV103:Cappuccino:Beverage:Description:1:3.00;BEV104:Mocha:Beverage:Description:1:4.00;BEV102:Americano:Beverage:Description:1:2.50,7.60,0.00,PENDING,OFFLINE
+ORDER118,2025-03-31 23:07:56,CS08,BEV104:Mocha:Beverage:Description:2:4.00,6.40,0.00,PENDING,OFFLINE
+ORDER119,2025-03-31 23:58:55,CS09,FOD206:Avocado Toast:Food:Description:3:5.00,12.00,0.00,PENDING,ONLINE
+ORDER130,2025-04-04 23:58:58,CS11,BEV102:Americano:Beverage:Description:1:2.50,2.00,0.00,PENDING,ONLINE
+ORDER131,2025-04-05 00:00:02,CS12,BEV101:Latte:Beverage:Description:1:3.50,2.80,0.00,PENDING,ONLINE
+ORDER132,2025-04-05 15:50:38,CS14,BEV103:Cappuccino:Beverage:Description:1:3.00,2.40,0.00,PENDING,ONLINE
+ORDER133,2025-04-06 13:21:19,CS13,FOD201:Cheese Sandwich:Food:Description:5:4.50;BEV103:Cappuccino:Beverage:Description:3:3.00,25.20,0.00,PENDING,ONLINE
+ORDER134,2025-04-06 13:21:48,CS12,FOD207:Granola Parfait:Food:Description:2:4.75,7.60,0.00,PENDING,ONLINE
